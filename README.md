@@ -1,4 +1,5 @@
 # Alma Virgo
+* Versione 1.110: aggiunta di una variante per _M_ e correzioni minori
 * Versione 1.100: aggiunta varianti e sistemazione generale
 * Versione 1.0: versione iniziale
 
